@@ -29,8 +29,5 @@ My List of Live Streams Found Off the Beaten Path
 ### 93.3 CFMU.CA
 - http://138.197.136.105:8000/mount.128mp3
 
-
-
-
 ### Live Hydrophone (Whale Sounds?)
--http://liveplatform.ca:8000/stream
+- http://liveplatform.ca:8000/stream
