@@ -26,7 +26,7 @@ My List of Live Streams Found Off the Beaten Path
 ### Jazz
 - https://kjzx.broadcasttool.stream/play
 
-### French
+### 93.3 CFMU.CA
 - http://138.197.136.105:8000/mount.128mp3
 
 
