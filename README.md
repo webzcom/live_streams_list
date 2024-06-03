@@ -24,8 +24,12 @@ My List of Live Streams Found Off the Beaten Path
 - https://azuracast.faitango.it:8000/radio.mp3
 
 ### Jazz
-
 - https://kjzx.broadcasttool.stream/play
+
+### French
+- http://138.197.136.105:8000/mount.128mp3
+
+
 
 
 ### Live Hydrophone (Whale Sounds?)
