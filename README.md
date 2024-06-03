@@ -16,6 +16,9 @@ My List of Live Streams Found Off the Beaten Path
 
 - https://wprt.forwestport.org/listen/wprt/radio.mp3
 
+### Atmospheric
+- http://streams.echoesofbluemars.org:8000/bluemars
+
 ### Country
 
 - https://stream.ocsradio.com/listen/wocs/radio.mp3
