@@ -7,6 +7,7 @@ My List of Live Streams Found Off the Beaten Path
 - http://m01.stream.ustream.ca:80/cfbs128.mp3
 - http://138.197.2.189:8000/kuzu.mp3
 - http://138.197.6.221:8000/radio.mp3
+- https://radiostreams.streamcomedia.com:8000/969guardianradio
 
 - https://wprt.forwestport.org/listen/wprt/radio.mp3
 
