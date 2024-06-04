@@ -4,6 +4,7 @@ My List of Live Streams Found Off the Beaten Path
 ## Streaming Music
 
 - https://lofitimeradio.com:8000/audiophile.mp3
+- ttp://radiocast.cr8tive-digital.com:8000/radiofaza
 - http://wow.amazingly.services:8000/stream
 - https://radiok.broadcasttool.stream/play_128
 - http://platteriverradio.broadcasttool.com:80/khas-aac
